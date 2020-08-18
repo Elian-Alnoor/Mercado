@@ -44,5 +44,6 @@
     opacity:1;
     
   }
-
-  
+  .imagens img {
+    width: 100%;
+  }
